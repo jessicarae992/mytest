@@ -1,2 +1,2 @@
 # mytest
-test git repository
+test git repository. yay!
